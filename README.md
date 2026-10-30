@@ -50,7 +50,7 @@ An end-to-end e-commerce analytics portfolio project focused on understanding sa
 ## 📫 Connect With Me
 
 - **LinkedIn:** [My LinkedIn Profile](YOUR-LINKEDIN-URL)
-- **Email:** YOUR-PROFESSIONAL-EMAIL
+- **Email:** salimajuthi.bd20@gmail.com
 - **GitHub Projects:** [Explore my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
 
 ---
